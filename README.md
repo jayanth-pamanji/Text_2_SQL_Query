@@ -1,6 +1,4 @@
-Got it 👍 You’ve shared the **Streamlit app code** that uses **Google Gemini** to convert natural language questions into **SQL queries**, run them on a SQLite `student.db` database, and return the results.
 
-Here’s a clean **README.md** file for your project:
 
 ---
 
