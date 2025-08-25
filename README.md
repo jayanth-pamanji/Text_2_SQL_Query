@@ -126,4 +126,6 @@ sqlite3-bro
 
 ---
 
-👉 Do you want me to also add a **diagram (system workflow)** in the README (like: User → Gemini → SQL → Database → Response) to make it look more professional?
+<img width="759" height="507" alt="Screenshot 2025-08-25 223708" src="https://github.com/user-attachments/assets/417f5076-a950-4496-be1b-a13cfc4d6246" />
+<img width="774" height="421" alt="Screenshot 2025-08-25 223557" src="https://github.com/user-attachments/assets/395109f4-3ea4-4546-a1b0-c621054b86eb" />
+
